@@ -1,0 +1,20 @@
+
+:root {
+
+  --blanc:      #f7f6f5;
+  --brun:       #311810;
+  --sable:      #ecd5b6;
+  --or:         #d2b06d;
+
+  --gouttiere:  2.5rem;
+
+  --easing:     0.35s;
+
+  /*
+
+  Exemple d'utilisation :
+  background-color: var(--brun);
+
+  */
+
+}

@@ -1,0 +1,111 @@
+Rapport d'assemblage
+
+-----------------------------------------------------------------------------
+Document :
+Nom : C 00 home 02.ai
+Mode : Couleurs RVB
+Profil colorimétrique : Sans
+Unité : pixels
+Dimensions : 375 px x 1029 px
+Afficher les images en mode Tracés : INACTIF
+Mettre en évidence les polices substituées : INACTIF
+Mettre en évidence les glyphes substitués : INACTIF
+Conserver le caractère modifiable du texte
+Simuler le papier couleur : INACTIF
+
+-----------------------------------------------------------------------------
+Objets en tons directs :
+
+-----------------------------------------------------------------------------
+Polices manquantes :SANS
+
+-----------------------------------------------------------------------------
+Polices protégées non assemblées :SANS
+
+-----------------------------------------------------------------------------
+Polices :
+CooperHewitt-Light (OTF)
+CooperHewitt-Book (OTF)
+Aller (OTF)
+
+-----------------------------------------------------------------------------
+Polices incorporées :
+SANS
+
+-----------------------------------------------------------------------------
+Liens manquants :
+SANS
+
+-----------------------------------------------------------------------------
+Images liées :
+
+/Volumes/PIXELPOETRY Archive 01/_ARCHIVE/FOLLOW FRIDAY site/•Bases/Talents/Cohen Jonathan/167409289.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 28084K, 3792 x 2528 pixels
+Dimensions : 568,356 x 378,904 points 
+Résolution : 480,375 x 480,375 pixels par pouce
+
+
+/Volumes/PIXELPOETRY Archive 01/_ARCHIVE/FOLLOW FRIDAY site/•Bases/Talents/Cohen Jonathan/167409289.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 28084K, 3792 x 2528 pixels
+Dimensions : 807,823 x 538,549 points 
+Résolution : 337,975 x 337,975 pixels par pouce
+
+
+/Volumes/PIXELPOETRY Archive 01/_ARCHIVE/FOLLOW FRIDAY site/Talents 2014-02-12/Giraudeau Sara/SARA-442.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 3280K, 864 x 1296 pixels
+Dimensions : 376,173 x 564,259 points 
+Résolution : 165,371 x 165,371 pixels par pouce
+
+
+/Volumes/PIXELPOETRY Archive 01/_ARCHIVE/FOLLOW FRIDAY site/Talents 2014-02-12/Giraudeau Sara/SARA-442.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 3280K, 864 x 1296 pixels
+Dimensions : 534,667 x 802 points 
+Résolution : 116,349 x 116,349 pixels par pouce
+
+
+/Volumes/PIXELPOETRY Archive 01/_ARCHIVE/FOLLOW FRIDAY site/Talents 2014-02-12/De La Baume Josephine/kkfef.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 3073K, 1000 x 1049 pixels
+Dimensions : 378,518 x 397,065 points 
+Résolution : 190,216 x 190,216 pixels par pouce
+
+
+/Volumes/PIXELPOETRY Archive 01/_ARCHIVE/FOLLOW FRIDAY site/Talents 2014-02-12/De La Baume Josephine/kkfef.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 3073K, 1000 x 1049 pixels
+Dimensions : 538 x 564,362 points 
+Résolution : 133,829 x 133,829 pixels par pouce
+
+
+/Volumes/PIXELPOETRY Archive 01/_ARCHIVE/FOLLOW FRIDAY site/Talents 2014-02-12/Guide Vanessa/IMG_2076-900x610.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 1608K, 900 x 610 pixels
+Dimensions : 562,148 x 381,012 points 
+Résolution : 115,272 x 115,272 pixels par pouce
+
+
+/Volumes/PIXELPOETRY Archive 01/_ARCHIVE/FOLLOW FRIDAY site/Talents 2014-02-12/Guide Vanessa/IMG_2076-900x610.jpg
+Type : RVB
+Bits par pixel : 24
+Couches : 3
+Taille : 1608K, 900 x 610 pixels
+Dimensions : 799 x 541,544 points 
+Résolution : 81,101 x 81,101 pixels par pouce

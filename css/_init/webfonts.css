@@ -1,0 +1,47 @@
+
+
+
+
+
+@font-face {
+  font-family: 'Texte-courant';
+  src: url('../../fonts/cooperhewitt/Aller_Rg.ttf') format('otf'),
+       url('../../fonts/cooperhewitt/cooperhewitt-mediumitalic-webfont.otf') format('otf');
+  font-weight: normal;
+  font-style: normal; =1
+
+
+
+
+
+@font-face {
+  font-family: 'Texte-courant';
+  src: url('../../fonts/CooperHewitt-Light.otf') format('otf'),
+       url('../../fonts/CooperHewitt-Light.otf') format('otf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Texte-courant';
+  src: url('../../fonts/cooperhewitt/CooperHewitt-Book.otf') format('otf'),
+       url('../../fonts/cooperhewitt/CooperHewitt-Book.otf') format('otf');
+  font-weight: bold;
+font-style: italic;
+
+}
+
+@font-face {
+  font-family: 'Texte-courant';
+  src: url('../../fonts/cooperhewitt/cooperhewitt-mediumitalic-webfont.otf.otf') format('otf'),
+       url('../../fonts/cooperhewitt/CooperHewitt-Light.otf') format('otf');
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Texte-courant';
+  src: url('../../fonts/cooperhewitt/CooperHewitt-Book.otf') format('otf'),
+       url('../../fonts/cooperhewitt/CooperHewitt-Book.otf') format('otf');
+  font-weight: bold;
+  font-style: italic;
+}
